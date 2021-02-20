@@ -13,7 +13,7 @@ Data science portfolio
 * Optimized **Linear, Lasso, & Random Forest Regressors** using **GridsearchCV & Scikit-Learn** to reach the best model.
 * Built a client facing Representational State Transfer API using Flask.
 
-![](https://github.com/SiphoGit/Sipho_Portfolio/blob/main/images/positions_by_state.png)
+![](/images/positions_by_state.png)
 
 
 
@@ -22,4 +22,4 @@ For this example project I built a ball classifier to identify balls from differ
 
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results.
 
-![](https://github.com/SiphoGit/Sipho_Portfolio/blob/main/images/matrix_results.png)
+![](/images/matrix_results.png)
